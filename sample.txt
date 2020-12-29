@@ -1,1 +1,1 @@
-Sample text file for jenkins integration
+Sample text file for jenkins integr
